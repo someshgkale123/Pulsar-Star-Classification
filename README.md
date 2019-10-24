@@ -9,3 +9,4 @@ For classification of the dataset, different methods are implemented like
 > Linear Discriminant Analysis(LDA) 
 
 > Logistic Regression
+ 
